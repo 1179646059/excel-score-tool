@@ -118,4 +118,4 @@ format_sheet(summary_ws)
 # 保存结果
 output_wb.save(output_file)
 
-print("统计完成，已生成：", output_file)
+print("统计完成，结果文件已生成：", output_file)
